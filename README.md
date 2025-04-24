@@ -6,7 +6,7 @@
     </p>
     
     <p align="right">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZianRkZ2lqaTZtNjl6bDJsa211cHR2bGU4NmJzcWo5d3I3bzM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" width="300" />
+      <img src="https://i.imgur.com/TvSSIVP.gif" width="300" />
     </p>
     
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
