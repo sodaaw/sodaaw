@@ -1,5 +1,14 @@
 <div style="text-align: left;">
-    <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZianRkZ2lqaTZtNjl6bDJsa211cHR2bGU4NmJzcWo5d3I3bzM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" width="400" alt="demo gif">
+    <p align="center">
+      <img src="https://imgur.com/a/woFbCsf" width="30" height="30" />
+      <strong style="color:black; font-size: 24px;">hello world!</strong>
+      <img src="https://imgur.com/a/woFbCsf" width="30" height="30" />
+    </p>
+    
+    <p align="right">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZianRkZ2lqaTZtNjl6bDJsa211cHR2bGU4NmJzcWo5d3I3bzM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" width="300" />
+    </p>
+    
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:ghk132435@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghk132435@gmail.com"> </a>
           </div>  <br> 
