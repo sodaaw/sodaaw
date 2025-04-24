@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://i.imgur.com/WJYkqpq.gif" width="30" height="30" />
-    <h1 style="display: inline;">hello world!</h1>
+    <b><font size="7">hello world!</font></b>
     <img src="https://i.imgur.com/WJYkqpq.gif" width="30" height="30" />
 </p>
     
