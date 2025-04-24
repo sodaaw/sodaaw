@@ -5,7 +5,7 @@
 </p>
     
 <p align="center">
-  <img src="https://i.imgur.com/TvSSIVP.gif" width="120" />
+  <img src="https://i.imgur.com/TvSSIVP.gif" width="180" />
 </p>
 
 ## 🧑‍💻 Contact me
