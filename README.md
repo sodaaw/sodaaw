@@ -1,12 +1,11 @@
-
 <p align="center">
     <img src="https://i.imgur.com/WJYkqpq.gif" width="30" height="30" />
     <strong style="color:black; font-size: 40px;">hello world!</strong>
     <img src="https://i.imgur.com/WJYkqpq.gif" width="30" height="30" />
 </p>
     
-<p align="right">
-  <img src="https://i.imgur.com/TvSSIVP.gif" width="300" />
+<p>
+  <img src="https://i.imgur.com/TvSSIVP.gif" width="100" />
 </p>
 
 ## 🧑‍💻 Contact me
