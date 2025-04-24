@@ -1,5 +1,5 @@
 <div style="text-align: left;">
-    <img src="https://capsule-render.vercel.app/api?type=speech&color=ffffff&height=300&section=header&text=Hello%20World!&fontSize=80&animation=twinkling&fontColor=000000&textBg=true&stroke=000000" />
+    <img src="https://capsule-render.vercel.app/api?type=speech&color=ffffff&height=300&section=header&text=Hello%20World!&fontSize=80&animation=twinkling&fontColor=000000&textBg=true&strokeWidth=2&stroke=000000" />
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZianRkZ2lqaTZtNjl6bDJsa211cHR2bGU4NmJzcWo5d3I3bzM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif" width="400" alt="demo gif">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:ghk132435@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghk132435@gmail.com"> </a>
