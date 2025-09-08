@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=✨%20Welcome%20to%20My%20GitHub!%20✨&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="./header.gif"/>
 </p>
 
 <!-- 인사 -->
