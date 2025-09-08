@@ -16,19 +16,6 @@
 
 ---
 
-## 🧑‍💻 Contact me  
-
-<p>
-  <a href="mailto:ghk132435@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sodaaw">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🏅 Stats  
 
 <p align="center">
@@ -46,7 +33,7 @@
 
 ---
 
-## 📌 Projects Timeline  
+## 📌 Timeline  
 
 <p align="center">
   <img src="./seal.gif" width="400"/>
