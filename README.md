@@ -78,8 +78,6 @@
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200">
 </p>
 
----
-
 <!-- 하단 배너 -->
 <p align="center">
   <img src="./footer.png"/>
