@@ -41,20 +41,21 @@
 
 ---
 
+## 📊 Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sodaaw&theme=tokyo-night-pink&bg_color=ffffff&color=ff69b4&line=ff69b4&point=ff90bc&hide_border=true"/>
+</p>
+
+
+---
+
 ## 🌸 Fun Stuff  
 
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200">
-</p>
-
----
-
-## 📊 Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sodaaw&theme=tokyo-night-pink&bg_color=ffffff&color=ff69b4&line=ff69b4&point=ff90bc&hide_border=true"/>
 </p>
 
 ---
