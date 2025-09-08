@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="./header.gif"/>
+  <img src="./header.png"/>
 </p>
 
 <!-- 인사 -->
