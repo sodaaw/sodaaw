@@ -5,9 +5,9 @@
 
 <!-- 인사 -->
 <p align="center">
-    <img src="https://i.imgur.com/WJYkqpq.gif" width="30" height="30" />
+    <img src="./heart.gif" width="20" height="20" />
     <b><font size="7">hello world!</font></b>
-    <img src="https://i.imgur.com/WJYkqpq.gif" width="30" height="30" />
+    <img src="./heart.gif" width="20" height="20" />
 </p>
     
 <p align="center">
