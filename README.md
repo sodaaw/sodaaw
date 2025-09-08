@@ -82,5 +82,5 @@
 
 <!-- 하단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="./footer.png"/>
 </p>
