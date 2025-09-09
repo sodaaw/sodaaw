@@ -55,10 +55,6 @@
   🔊 *한이음 ICT 공모전* - AI 수면 플랫폼 '코오알라' 개발 (백엔드)  
 
 
-<p align="center">
-  <img src="./ping.gif" width="200">
-</p>
-
 <!-- 하단 배너 -->
 <p align="center">
   <img src="./footer.png"/>
